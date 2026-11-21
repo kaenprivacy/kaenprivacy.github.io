@@ -1,0 +1,12 @@
+KAEN PRIVACY — SUBIDA A GITHUB PAGES
+
+Repositorio: kaenprivacy/kaenprivacy.github.io
+
+1. Abre tu repositorio en GitHub y entra en Add file > Upload files.
+2. Sube los archivos de ESTA carpeta respetando la estructura: index.html, logo-kaen.png, robots.txt, sitemap.xml y la carpeta card con sus dos archivos.
+3. Confirma con Commit changes. Si ya existen archivos con el mismo nombre, sustitúyelos.
+4. Comprueba https://kaenprivacy.github.io/ y https://kaenprivacy.github.io/card/
+
+IMPORTANTE: si GitHub web no acepta subir carpetas completas, abre primero card/ y sube por separado card/index.html y card/logo-kaen-original.png.
+
+El número de WhatsApp está configurado como +52 415 192 7739, heredado de los HTML previos. Confirma que es el correcto antes de publicar.
